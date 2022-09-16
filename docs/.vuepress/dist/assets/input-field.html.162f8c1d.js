@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9649357c","path":"/components/input-field.html","title":"InputFiled","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1663354958000,"contributors":[{"name":"Abdelrahman Saeed Elhassan","email":"abdosaeedelhassan@gmail.com","commits":1}]},"filePathRelative":"components/input-field.md"}');export{e as data};
