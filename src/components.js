@@ -1,3 +1,3 @@
-import InputText from './InputText.vue'
+import InputField from './InputField.vue'
 
-export default { InputText }
+export default { InputField }
