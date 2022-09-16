@@ -6,7 +6,7 @@
   "files": [
     "dist/*"
   ],
-  "description": "",
+  "description": "Configured inputs with that can be implemented in inertiajs apps",
   "scripts": {
     "build": "rollup -c"
   },
