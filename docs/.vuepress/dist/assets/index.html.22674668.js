@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"Asay Vue Inputs","lang":"en-US","frontmatter":{},"excerpt":"","headers":[{"level":3,"title":"Installation","slug":"installation","link":"#installation","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"README.md"}');export{t as data};

@@ -21,7 +21,7 @@ var script = {
       default: "",
     },
   },
-  setup() {
+  setup(props) {
     let inputFiled = vue.ref(props.modelvalue);
     return {
       inputFiled,

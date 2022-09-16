@@ -19,7 +19,7 @@ var script = {
       default: "",
     },
   },
-  setup() {
+  setup(props) {
     let inputFiled = ref(props.modelvalue);
     return {
       inputFiled,
