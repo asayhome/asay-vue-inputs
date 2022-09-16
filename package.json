@@ -11,7 +11,10 @@
     "build": "rollup -c"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Abdelrahman Saeed Elhassan",
+    "email": "abdosaeedelhassan@gmail.com"
+  },
   "license": "ISC",
   "dependencies": {
     "vue": "^3.2.39"
