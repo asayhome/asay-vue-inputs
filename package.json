@@ -1,6 +1,6 @@
 {
   "name": "@asayhome/asay-vue-inputs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/library.js",
   "module": "dist/library.mjs",
   "files": [

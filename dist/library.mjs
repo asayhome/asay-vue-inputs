@@ -58,7 +58,7 @@ script.__file = "src/InputField.vue";
 
 var components = { InputField: script };
 
-const plugin = {
+const AsayInputs = {
     install(Vue) {
         for (const prop in components) {
             if (components.hasOwnProperty(prop)) {
@@ -69,4 +69,4 @@ const plugin = {
     }
 };
 
-export { plugin as default };
+export { AsayInputs as default };
